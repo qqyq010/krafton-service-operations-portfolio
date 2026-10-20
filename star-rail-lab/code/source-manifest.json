@@ -1,27 +1,9 @@
-[
-  {
-    "source": "frontend/src/ComparisonWorkspace.jsx",
-    "copy": "code/ComparisonWorkspace.jsx",
-    "sha256": "b6e15cd755307b0fa1bdb57752b6416c4b3ec569574f481c52c814340378c95d"
-  },
-  {
-    "source": "frontend/src/comparison-workspace.css",
-    "copy": "code/comparison-workspace.css",
-    "sha256": "41805438e5a1342a30012005644e626272296d4c07770ecf6d3f61dc4e524313"
-  },
-  {
-    "source": "frontend/src/CurrentBuildComparison.jsx",
-    "copy": "code/CurrentBuildComparison.jsx",
-    "sha256": "6f0996553e8192dfd3e2ba3e810244e432acd2ae22ae383b0268dfee5d15b128"
-  },
-  {
-    "source": "frontend/src/CurrentPartyComparison.jsx",
-    "copy": "code/CurrentPartyComparison.jsx",
-    "sha256": "169a63fb3ae75c3e74bcbaa91afc4c32145e1c735485bfd2add975325c250023"
-  },
-  {
-    "source": "backend/src/star_rail_lab/canonical.py",
-    "copy": "code/canonical.py",
-    "sha256": "7fd07bb9374791b879a417afbeadecf603cf745d0f23c014de8487cb076ebc36"
-  }
-]
+{
+  "captured_at": "2026-10-20",
+  "source_relative_path": "frontend/src/RotationWorkbench.jsx",
+  "source_sha256": "1e2cfa3a3461e36f8a27c122581b86cd9f6560e49562684169bd10f0f9554840",
+  "line_start": 1,
+  "line_end": 32,
+  "role": "AI implementation; user purpose, monitoring and feedback",
+  "standalone": false
+}

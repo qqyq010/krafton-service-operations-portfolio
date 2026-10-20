@@ -1,1 +1,11 @@
-* -text
+* text=auto
+*.md text eol=lf
+*.cs -text
+*.jsx -text
+*.json -text
+*.pdf binary
+*.png binary
+*.jpg binary
+*.xlsx binary
+.gitattributes text eol=lf
+.gitignore text eol=lf

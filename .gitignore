@@ -1,13 +1,2 @@
-.env
-.env.*
-!.env.example
-private/
-accounts/
-diagnostics/
-*.capture.json
-*.log
-.venv/
-node_modules/
-__pycache__/
 .DS_Store
 Thumbs.db

@@ -10,7 +10,7 @@ Coin Survivor에서 제가 맡은 기능과 직접 확인한 두 사례입니다
 
 | 사례 | 제가 한 일 |
 | --- | --- |
-| [무기는 팔렸는데 공격은 나가는 버그](coin-survivor/cases/sold-weapon-keeps-attacking.md) | 판매한 무기의 공격이 멈추고 남겨 둔 무기는 유지되는지 확인했습니다. |
+| [무기 판매 버그](coin-survivor/cases/sold-weapon-keeps-attacking.md) | 판매한 무기의 공격이 멈추고 남겨 둔 무기는 유지되는지 확인했습니다. |
 | [구매와 가방 확장 비용](coin-survivor/cases/shop-and-bag-costs.md) | 초반에 느낀 비용 부담을 AI에 분석해 달라고 요청하고 조정 후 다시 플레이했습니다. |
 
 [Coin Survivor 소개와 담당 기능](coin-survivor/README.md)
@@ -20,7 +20,7 @@ Coin Survivor에서 제가 맡은 기능과 직접 확인한 두 사례입니다
 | 사례 | 제가 한 일 |
 | --- | --- |
 | [회의록과 작업 기록](work-records/README.md) | 전사본에 빠진 내용을 메모로 보완해 팀과 공유했습니다. 작업 기록의 누락과 복잡한 이름도 고치도록 요청했습니다. |
-| [Star Rail Lab 제작](star-rail-lab/README.md) | 원하는 기능을 정하고 실행 결과를 살폈습니다. 목적과 다른 결과가 나오면 화면과 참고 자료를 전달해 수정을 요청했습니다. |
+| [Star Rail Lab](star-rail-lab/README.md) | 원하는 기능을 정하고 실행 결과를 살폈습니다. 목적과 다른 결과가 나오면 화면과 참고 자료를 전달해 수정을 요청했습니다. |
 | [AI 자료 검토](ai-library/README.md) | 제 컴퓨터에서 실행할 수 있는지, 평소 작업에 필요한지를 기준으로 자료를 적용하거나 보관했습니다. |
 
 ## 게임 플레이 기록

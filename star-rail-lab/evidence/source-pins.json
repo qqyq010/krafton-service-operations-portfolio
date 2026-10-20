@@ -1,0 +1,25 @@
+{
+  "build-comparisons": {
+    "profile": "hypothetical-maxed-static-builds",
+    "source_checksum": "sha256:680a0deddc0ce38020022694c35ccae45dadf1160471fd8ea27ac964decb9cb2",
+    "engine_checksum": "sha256:facbd3d589f26190953b3efe1ba4993003a95dae2973a2bc561197e88e4f272a",
+    "prerequisites_checksum": "sha256:5f65dace5791f9a4054c58c1225c6e336750bb1495421947466c9403aa14d341",
+    "game_version": "4.6.0"
+  },
+  "party-comparisons": {
+    "profile": "hypothetical-party-evidence-comparison",
+    "source_checksum": "sha256:680a0deddc0ce38020022694c35ccae45dadf1160471fd8ea27ac964decb9cb2",
+    "evidence_checksum": "sha256:2478048644f4d0e81c773fd12192ac9ae2ed916dd22d8b8712e2f0870dfd48ff",
+    "engine_checksum": "sha256:a6de5c13f112f3d867435ffafe7ceb5723a3a10f99bda3bf3d18e5553ab308b3",
+    "game_version": "4.6.0"
+  },
+  "party-builds": {
+    "profile": "hypothetical-party-build-comparison",
+    "source_checksum": "sha256:680a0deddc0ce38020022694c35ccae45dadf1160471fd8ea27ac964decb9cb2",
+    "scope_checksum": "sha256:83b4f8c2d88aa6e71dc06a6a2c1c536e172549a896cbb181e4b6797ba3bd0ef6",
+    "evidence_checksum": "sha256:2478048644f4d0e81c773fd12192ac9ae2ed916dd22d8b8712e2f0870dfd48ff",
+    "engine_checksum": "sha256:0ee3afcc965ecae8d83dca162a41c9a0fd5cca9a443d9e494151d9d589a07ef2",
+    "prerequisites_checksum": "sha256:29baa6752fe3f17b0c51c00e4fc7422478c059c34b095e99c8670151d1998181",
+    "game_version": "4.6.0"
+  }
+}
